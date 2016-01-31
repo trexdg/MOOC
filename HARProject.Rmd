@@ -2,7 +2,7 @@
 title: 'Course Project: PML Human Activity Recognition'
 author: "SN Jalis"
 date: "January 31, 2016"
-output: pdf_document
+output: html_document
 ---
 
 ## Overview
